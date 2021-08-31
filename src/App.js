@@ -17,6 +17,7 @@ import Style from './components/appStyle';
 import Inline from './components/Inline';
 import NameList from './components/NameList';
 import Forms from './components/Forms';
+import LifeCycleA from './components/LifeCycleA';
 
 export default function App() {
   return (
@@ -43,6 +44,7 @@ export default function App() {
       {/* <Inline /> */}
       {/* <NameList /> */}
       {/* <Forms /> */}
+      <LifeCycleA />
     </div>
   );
 }
