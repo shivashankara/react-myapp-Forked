@@ -42,7 +42,7 @@ export default function App() {
       <h1 className={style.success}> This is success message </h1> */}
       {/* <Inline /> */}
       {/* <NameList /> */}
-      <Forms />
+      {/* <Forms /> */}
     </div>
   );
 }
